@@ -13,7 +13,7 @@ const useStyles = makeStyles((theme) => ({
         flexGrow:1,
     },
     toolbar: {
-        background: 'transparent',
+        background: 'rgba(227, 227, 227, 0.3)',
         boxShadow: "1px",
         position: "fixed",
     },
